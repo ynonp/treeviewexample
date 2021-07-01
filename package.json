@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "azure-devops-ui": "2.167.7",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-scripts": "2.0.3"
+  },
+  "main": "index.tsx",
+  "name": "ohb5p",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
